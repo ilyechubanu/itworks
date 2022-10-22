@@ -1,5 +1,5 @@
 Работы Экова Илья из 122 группы ЛТПУ!
-![This is an image](https://i.ytimg.com/vi/Oc5bIgsg1Iw/maxresdefault.jpg)
+![This is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn06v7JdSdGZ2ixCs7OIOA01u1bIFAkYQXYQ&usqp=CAU)
 Мои работы###
 BDTEST.py
 Код Хэмминга.ipund
