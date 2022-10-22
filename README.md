@@ -8,7 +8,7 @@
 
 
 ## Мои работы ##
- - BDTEST.py
+ - <a href="https://github.com/ilyechubanu/itworks/blob/main/bdtest">BDtest</a>
  - Код Хэмминга.ipund
  - Система умножения.py
  - Таблица умножения.py
