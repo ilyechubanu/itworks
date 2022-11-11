@@ -26,11 +26,12 @@ $$ S=\sqrt{p(p-a)(p-b)(p-c)} $$
 
 Формула с доски: 
 
-$$ E_{1}^2=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+a_{1}^{\frac{1}{3}}+B_{2}^{\frac{2}{3}} $$
+$$ \overline{E}_{1}^2=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+a_{1}^{\frac{1}{3}}+\beta_{2}^{\frac{2}{3}} $$
 
 Картинка с 3 формулами:
 
-![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114716840/201263495-f9d40b92-6c4f-4203-815f-365dca26ac63.png)
+![lagrida_latex_editor (8)](https://user-images.githubusercontent.com/114716840/201264211-b5440116-5c46-43b9-8ceb-0bdb96359c6d.png)
+
 
 
 
