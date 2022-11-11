@@ -15,3 +15,15 @@
  - <a href="https://github.com/ilyechubanu/itworks/blob/main/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BA%D0%B0.png">Скрин нейронки (*скриншот нейронки*)</a>
  - <a href="https://github.com/ilyechubanu/itworks/blob/main/%D1%82%D0%B0%D0%B1%D0%BB%20%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D0%B8.xlsx">Таблица истиности (*exel table*)</a>
  - <a href="https://github.com/ilyechubanu/itworks/blob/main/morze.xlsx">Морзе (*morze table*)</a>
+
+- Формула центростремительного ускорения:
+
+$$ a=\frac{V^2}{R} $$
+
+Формула Герона для нахождения площади треугольника: 
+
+$$ S=\sqrt{p(p-a)(p-b)(p-c)} $$
+
+Формула с доски: 
+
+$$ E_{1}^2=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+a_{1}^{\frac{1}{3}}+B_{2}^{\frac{2}{3}} $$
