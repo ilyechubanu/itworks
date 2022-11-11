@@ -27,3 +27,8 @@ $$ S=\sqrt{p(p-a)(p-b)(p-c)} $$
 Формула с доски: 
 
 $$ E_{1}^2=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+a_{1}^{\frac{1}{3}}+B_{2}^{\frac{2}{3}} $$
+
+Картинка с 3 формулами: 
+
+![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114716840/201263212-71494e59-2b9b-47f8-ba1c-52017c977cd4.png)
+
