@@ -1,0 +1,10 @@
+print("Введите ваше имя:")
+im = str(input())
+print("Введите ваш пол(м или Ж):")
+pol = str(input())
+if pol == "м" or "м":
+    print(im+"ин")
+elif pol == "Ж" or "ж":
+    print (im+"лия")
+else: 
+    print("Ты средний род?")
