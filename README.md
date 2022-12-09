@@ -17,6 +17,7 @@
  - <a href="https://github.com/ilyechubanu/itworks/blob/main/morze.xlsx">Морзе (*morze table*)</a>
  - <a href="https://github.com/ilyechubanu/itworks/blob/main/%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B527.py">Кодирование (*программа на .py*)</a>
  - <a href="https://github.com/ilyechubanu/itworks/blob/main/viktorina.py">Викторина (*викторина.py*)</a>
+ - <a href="https://github.com/ilyechubanu/itworks/blob/main/pillow.py">Pillow (*pillow.py*)</a>
 - Формула центростремительного ускорения:
 
 $$ a=\frac{V^2}{R} $$
