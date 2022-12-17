@@ -70,7 +70,8 @@ $$ \overline{E}_{1}^2=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+a_{1}^{\frac{1}{3}}+\
 Картинка с 3 формулами:
 
 ![lagrida_latex_editor (8)](https://user-images.githubusercontent.com/114716840/201264211-b5440116-5c46-43b9-8ceb-0bdb96359c6d.png)
-- 19 задание ЕГЭ: 
+- 19 задание ЕГЭ:
+- ```mermaid
 stateDiagram-v2
     >=129 --> 128:(В+1) - 2 ход
     >=129 --> 65:(В*2)
@@ -78,6 +79,7 @@ stateDiagram-v2
     128 --> 127:(П+1) - 1 ход
     65 --> 64:(П+1)
     64 --> Ответ
+```
 
 
 
