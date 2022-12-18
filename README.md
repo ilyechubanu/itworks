@@ -70,6 +70,18 @@ $$ \overline{E}_{1}^2=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+a_{1}^{\frac{1}{3}}+\
 Картинка с 3 формулами:
 
 ![lagrida_latex_editor (8)](https://user-images.githubusercontent.com/114716840/201264211-b5440116-5c46-43b9-8ceb-0bdb96359c6d.png)
+~~~mermaid
+
+flowchart LR
+
+A[10] -->|переводной| B(11)
+B --> C{ЕГЭ}
+C -->|80| D[ТПУ]
+C -->|100| E[МГУ]
+
+~~~
+
+
 - 19 задание ЕГЭ:
  
  ```mermaid
@@ -96,17 +108,6 @@ stateDiagram-v2
     32 --> Ответ2
 ```
 
-
-~~~mermaid
-
-flowchart LR
-
-A[10] -->|переводной| B(11)
-B --> C{ЕГЭ}
-C -->|80| D[ТПУ]
-C -->|100| E[МГУ]
-
-~~~
 
 
 
