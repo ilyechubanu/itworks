@@ -17,7 +17,15 @@
 #6 from turtle import * - импортируем что либо (тут черепаха)
 
 left(90) - forward(300) - right(120) - goto(x30,y30) - dot(5) - pu() - поднимаем перо
-#8 .index('element')- проверяем индекс элемента
+done - конец программы
+#8 
+num = prodact ('a' repeat=b)
+n.split (',')
+for in range - генерация цифр в числе
+str (a)
+s.index(a) - поиск индекса
+.len(s)
+.index('element')- проверяем индекс элемента
 from itertools import product - импортируем что либо (тут продукт)
 product('01234567',repeat=5) -
 .split(Х) - зазбивает строку по Х
@@ -38,6 +46,7 @@ nums=product('12',repeat=i) - генерация объекта
 continue - переход к следующшему шагу в for
 return count - возвращает значение
 pass - заглушка
+break- функция, которая ломает цикл
 #24
 with open('24.txt') as f:
 let=f.readline() - чтение из файла
